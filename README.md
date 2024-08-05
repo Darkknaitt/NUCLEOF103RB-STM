@@ -10,8 +10,3 @@ To get started, clone this repository to your local machine using the following 
 ```bash
 git clone https://github.com/Darkknaitt/NUCLEOF103RB-STM.git
 ```
-
-
-## License
-
-This repository is licensed under the MIT License. See the `LICENSE` file for more details.
