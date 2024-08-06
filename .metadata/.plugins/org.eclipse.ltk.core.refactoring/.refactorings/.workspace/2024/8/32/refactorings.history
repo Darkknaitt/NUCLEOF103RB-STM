@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;006ReadPinFinalOptimization&apos;" deleteContents="true" description="Delete resource &apos;006ReadPinFinalOptimization&apos;" element1="/006ReadPinFinalOptimization" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1722826751933"/>
+</session>
