@@ -1,0 +1,36 @@
+/*
+ * stm32f1xx.h
+ *
+ *  Created on: Aug 12, 2024
+ *      Author: Darkknaitt
+ */
+
+#ifndef INC_STM32F1XX_H_
+#define INC_STM32F1XX_H_
+
+#define FLASH_BASEADDR		0X80000000UL 	// Info obtenida del manual de referencia
+#define SRAM1_BASEADDR		0x20000000UL 	// Info obtenida del manual de referencia
+#define SRAM				SRAM1_BASEADDR 	// Solo tiene una memoria SRAM
+#define ROM_BASEADDR		0x1FFFF000UL 	// Info obtenida del manual de referencia
+
+
+//////////////////////////////////////////////
+/* Direccion de memoria base de los buses */
+#define PERIPH_BASEADDR		0x40000000UL
+#define APB1_BASEADDR		PERIPH_BASEADDR
+#define APB2_BASEADDR		0x40010000UL
+#define AHB_BASEADDR		0x40018000UL 	// En la nucleo solo se encuentra un bus AHB
+
+
+//////////////////////////////////////////////
+/* Direccion de memoria base de los perifericos*/
+
+#define GPIOA_BASEADDR		(APB2_BASEADDR + 0x0800)
+#define GPIOB_BASEADDR		(ap)
+#define GPIOC_BASEADDR
+#define GPIOD_BASEADDR
+#define GPIOE_BASEADDR
+#define GPIOF_BASEADDR
+
+
+#endif /* INC_STM32F1XX_H_ */

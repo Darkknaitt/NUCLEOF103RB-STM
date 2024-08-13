@@ -1,0 +1,13 @@
+/*
+ * stm32f1xx.h
+ *
+ *  Created on: Aug 12, 2024
+ *      Author: Darkknaitt
+ */
+
+#ifndef INC_STM32F1XX_H_
+#define INC_STM32F1XX_H_
+
+
+
+#endif /* INC_STM32F1XX_H_ */

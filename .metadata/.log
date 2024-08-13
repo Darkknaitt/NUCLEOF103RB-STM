@@ -16,3 +16,66 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\abrah\D
 
 !ENTRY org.eclipse.cdt.core 1 0 2024-08-04 21:00:43.930
 !MESSAGE Indexed '006PinReadFinalOp' (20 sources, 79 headers) in 2.52 sec: 4,136 declarations; 17,895 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0091%)
+!SESSION 2024-08-09 02:40:27.400 -----------------------------------------------
+eclipse.buildId=Version 1.14.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\abrah\Desktop\IPN\STM\Curso_C\Embedded-C\My_workspace\target\NUCLEOF103RB-STM
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-08-09 02:40:30.781
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-08-09 02:40:30.789
+!MESSAGE Log4j2 initialized with config file C:\Users\abrah\Desktop\IPN\STM\Curso_C\Embedded-C\My_workspace\target\NUCLEOF103RB-STM\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-08-09 02:40:35.793
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-09 02:41:01.420
+!MESSAGE Indexed '002_ADCTest' (3 sources, 58 headers) in 0.19 sec: 2,299 declarations; 3,133 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.037%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-09 02:41:18.130
+!MESSAGE Indexed '002_ADCTest2' (3 sources, 0 headers) in 0.01 sec: 70 declarations; 72 references; 14 unresolved inclusions; 0 syntax errors; 40 unresolved names (22%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-09 02:41:38.751
+!MESSAGE Indexed '003_MCO_Test' (3 sources, 58 headers) in 0.126 sec: 2,299 declarations; 3,133 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.037%)
+!SESSION 2024-08-09 21:44:32.801 -----------------------------------------------
+eclipse.buildId=Version 1.14.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-08-09 21:45:58.266
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-08-09 21:45:58.274
+!MESSAGE Log4j2 initialized with config file C:\Users\abrah\Desktop\IPN\STM\Curso_C\Embedded-C\My_workspace\target\NUCLEOF103RB-STM\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-08-09 21:46:09.641
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-08-12 19:19:50.295 -----------------------------------------------
+eclipse.buildId=Version 1.14.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-08-12 19:20:43.038
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-08-12 19:20:43.044
+!MESSAGE Log4j2 initialized with config file C:\Users\abrah\Desktop\IPN\STM\Curso_C\Embedded-C\My_workspace\target\NUCLEOF103RB-STM\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-08-12 19:20:52.394
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-12 19:22:13.491
+!MESSAGE Indexed 'STM32_F103RB' (3 sources, 53 headers) in 1.25 sec: 1,950 declarations; 2,831 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-12 19:22:44.167
+!MESSAGE Indexed 'STM32_F103RB_drivers' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-12 19:23:20.066
+!MESSAGE Indexed 'STM32F103RB_drivers' (3 sources, 53 headers) in 0.166 sec: 1,950 declarations; 2,831 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
